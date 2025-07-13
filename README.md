@@ -1,2 +1,2 @@
-# omegaarchitect-site
-Templo oficial OmegaArchitect™ — deploy simbólico e funcional
+# OmegaArchitect™ Site Template
+Este é o código inicial do templo digital.
