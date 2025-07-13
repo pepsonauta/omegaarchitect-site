@@ -1,2 +1,5 @@
-# OmegaArchitect™ Site Template
-Este é o código inicial do templo digital.
+# OmegaArchitect Site
+
+> Ritualistic interface of OmegaArchitect™ — do not modify unless initiated.
+
+This is the symbolic web portal of the OmegaArchitect ecosystem.
